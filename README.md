@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá! Eu sou o Yuri Gimenes da Costa 👋
 
-<!--
-**YuriGimenesCosta/YuriGimenesCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div>
+    <a href="https://github.com/YuriGimenesCosta">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriGimenesCosta&show_icons=true"/>
+      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGimenesCosta&layout=compact"/>
+    </a>
+</div>
+<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">         
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="yuri-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</div>
 
-Here are some ideas to get you started:
+<br>- 👨‍💻 Desenvolvedor ...
+<br>- 💻 Formado em Análise e Desenvolvimento de Sistemas ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:contato@yurigimenes.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="yurigimenes.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="[yurigimenes.com.br](https://youtube.com/@AdvPLChannel)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuri-gimenes-523a16a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
