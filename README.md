@@ -21,8 +21,8 @@
 <br>- 💻 Formado em Análise e Desenvolvimento de Sistemas ...
 
 <div>
-  <a href="mailto:contato@yurigimenes.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="yurigimenes.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="[yurigimenes.com.br](https://youtube.com/@AdvPLChannel)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yuri-gimenes-523a16a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato@yurigimenes.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="yurigimenes.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="[yurigimenes.com.br](https://youtube.com/@AdvPLChannel)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuri-gimenes-523a16a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
