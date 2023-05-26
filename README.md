@@ -2,10 +2,9 @@
 
 <br>
 <div>
-    <a href="https://github.com/YuriGimenesCosta">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriGimenesCosta&show_icons=true"/>
-      <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGimenesCosta&layout=compact"/>
-    </a>
+    <a href="https://github.com/YuriGimenesCosta"></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriGimenesCosta&show_icons=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriGimenesCosta&layout=compact"/>
 </div>
 <br>
 <div style="display: inline_block"><br>
